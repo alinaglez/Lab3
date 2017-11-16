@@ -54,7 +54,7 @@ public void paintComponent(Graphics g) {
 
                         
 
-//                        //Draw border
+//                        //Draw a border
 
 //                        g.setColor(Color.YELLOW);
 
