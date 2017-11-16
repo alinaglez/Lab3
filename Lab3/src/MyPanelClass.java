@@ -47,7 +47,7 @@ public void paintComponent(Graphics g) {
 
  
 
-                        //Paint the background
+                        //Painted the background
 
                         g.setColor(Color.RED);
 
