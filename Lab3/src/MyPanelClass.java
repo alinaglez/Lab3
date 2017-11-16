@@ -44,7 +44,7 @@ public void paintComponent(Graphics g) {
 
  
 
-                        //Paint the background
+                        //Paint the backgrounds
 
                         g.setColor(Color.PINK);
 
